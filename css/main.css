@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 :root {
   --accent: var(--info-positive-foreground)!important;
   --activity-card-background: var(--background-tertiary)!important;
@@ -9,11 +10,26 @@
   --background-secondary: #21252b!important;
   --background-secondary-alt: #21252b!important;
   --background-tertiary: #282c34!important;
+  --background-modifier-hover: #2c313a80!important;
+  --background-modifier-selected: #282c34!important;
   --channeltextarea-background: #21252b!important;
   --interactive-active: #fff!important;
   --interactive-hover: #dcddde!important;
   --interactive-muted: #2c313a!important;
   --interactive-normal: #c8c8c8!important;
+  --input-background: #2c313a!important;
+}
+:root html {
+  --brand-experiment: hsl(207, 82%, 66%)!important;
+  --brand-experiment-560: var(--brand-experiment)!important;
+}
+
+:root {
+  --font-primary: "IBM Plex Mono", monospace;
+  --font-display: var(--font-primary);
+}
+:root .channelName-3KPsGw {
+  font-size: 14px;
 }
 
 .circleIconButton-1VxDrg {
