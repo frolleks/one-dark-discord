@@ -1,0 +1,12 @@
+{
+  "name": "one-dark-discord",
+  "version": "0.0.1",
+  "description": "Atom's One Dark theme for Discord",
+  "main": "main.scss",
+  "repository": "https://github.com/frolleks/one-dark-discord.git",
+  "author": "Frolleks <frolleks@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.52.2"
+  }
+}

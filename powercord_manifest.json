@@ -1,0 +1,8 @@
+{
+    "name": "one-dark-discord",
+    "description": "Atom's One Dark theme for Discord",
+    "version": "0.0.1",
+    "author": "Frolleks",
+    "license": "MIT",
+    "theme": "main.scss"
+}
